@@ -4,4 +4,3 @@
 
 //img2
 
-//new img
